@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @local-mann
+- 👋 Hi, I’m Kayode
 - 👀 I’m interested in anything backend development, i'm good enough with ,ASP.NET, C# and the Entity framework package
 - 🌱 I’m currently learning about Python and its add-ons
-- 📫 How to reach me by sending a mail to babalolakayode44@gmail.com
+- 📫 You can reach me by sending a mail to babalolakayode44@gmail.com
 - Constructive criticism is appreciated and i'd appreciate any help i can get!
 
 <!---
