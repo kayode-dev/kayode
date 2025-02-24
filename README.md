@@ -1,8 +1,10 @@
--  Hi, I’m Kayode
--  I’m a front-end developer, my main frameworks are Blazor(Microsoft) and React(JS), I am also familiar with other frameworks like Next.Js, Razor Pages and a bit of .NET MAUI
--  I’m continually learning and sharpening my skills
--  You can reach me by sending a mail to babalolakayode44@gmail.com
-- Constructive criticism is appreciated and I'd appreciate any help I can get!
+## Hi! I'm Kayode Babalola 👋🏾
+
+
+- 👨🏾‍💻 Front-end Engineer, focused on NextJS and ReactJS, also familiar with .NET frameworks like Blazor and MAUI.
+-  I’m all about continuous learning and honing my skills
+- 📥 You can reach me by sending a mail to babalolakayode44@gmail.com
+- 🙏🏾 Constructive criticism is appreciated and I'd appreciate any help I can get!
 
 <!---
 local-mann/local-mann is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
